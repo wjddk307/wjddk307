@@ -1,4 +1,7 @@
-### Hi there 👋
+### 👋 내 깃허브를 방문 해줘서 고마워
+### 🌱 새싹 개발자 지망생 
+### 💬 Blog : https://blog.naver.com/wjddk2131
+### 📫 Mail : wjddk2131@naver.com
 
 <!--
 **wjddk307/wjddk307** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
