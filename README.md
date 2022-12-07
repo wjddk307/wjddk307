@@ -2,8 +2,8 @@
 - 🌱 새싹 개발자 지망생 
 - 💬 Blog : https://blog.naver.com/wjddk2131
 - 📫 Mail : wjddk2131@naver.com
-> "Measuring programming progress by lines of code is 
-> like measuring aircraft building progress by weight."
+> "Measuring programming progress by lines of code is <br>
+> like measuring aircraft building progress by weight." <br>
 > / Bill Gates
 <!--
 **wjddk307/wjddk307** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
