@@ -1,6 +1,5 @@
 - 👋 내 깃허브를 방문 해줘서 고마워
 - 🌱 새싹 개발자 지망생 
-- 💬 Blog : https://blog.naver.com/wjddk2131
 - 📫 Mail : wjddk2131@naver.com
 > "Measuring programming progress by lines of code is <br>
 > like measuring aircraft building progress by weight." <br>
